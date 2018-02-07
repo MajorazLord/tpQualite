@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+
+    <string name="desc_celcius">°C</string>
+    <string name="desc_far">°F</string>
+    <string name="btn_celcius">HistoriqueCelcius</string>
+    <string name="btn_far">HistoriqueFar</string>
+</resources>
